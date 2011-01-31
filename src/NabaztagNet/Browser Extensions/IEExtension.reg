@@ -1,0 +1,5 @@
+﻿Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\MenuExt\Send to Nabaztag]
+"Contexts"=dword:00000020
+@="file://C:\\Program Files\\NabaztagApi\\IEExtension.html"
